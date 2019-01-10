@@ -1,3 +1,4 @@
 {
+  "testGetConfig.py": true,
   "testGetFreeProxy.py::testGetFreeProxy": true
 }

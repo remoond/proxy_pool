@@ -16,9 +16,9 @@ import sys
 import time
 
 try:
-    from Queue import Queue  # py3
-except:
     from queue import Queue  # py2
+except:
+    from Queue import Queue  # py3
 
 sys.path.append('../')
 

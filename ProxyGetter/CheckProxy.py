@@ -13,7 +13,7 @@
 __author__ = 'JHao'
 
 import sys
-from getFreeProxy import GetFreeProxy
+from ProxyGetter.getFreeProxy import GetFreeProxy
 from Util.utilFunction import verifyProxyFormat
 
 sys.path.append('../')
